@@ -1,0 +1,41 @@
+/* ============================================================
+   QUIET EDITORIAL — Design System
+   ============================================================ */
+
+:root {
+  /* Color */
+  --bg:        #faf9f6;
+  --bg-warm:   #f5f2ec;
+  --surface:   #ffffff;
+  --ink:       #0f172a;
+  --ink-2:     #1e293b;
+  --ink-soft:  #334155;
+  --muted:     #64748b;
+  --muted-2:   #94a3b8;
+  --line:      #e7e5e4;
+  --line-2:    #d6d3d1;
+
+  --accent:    #0f766e;
+  --accent-2:  #14b8a6;
+  --accent-bg: #f0fdfa;
+
+  --danger:    #be123c;
+
+  /* Type */
+  --font-sans:  'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Fraunces', 'Iowan Old Style', Georgia, serif;
+
+  /* Radius */
+  --r-sm:  8px;
+  --r:     14px;
+  --r-lg:  20px;
+  --r-xl:  28px;
+  --r-full: 999px;
+
+  /* Shadow */
+  --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.04);
+  --shadow:    0 4px 14px -4px rgba(15, 23, 42, 0.08),
+               0 2px 4px -1px rgba(15, 23, 42, 0.04);
+  --shadow-lg: 0 20px 40px -12px rgba(15, 23, 42, 0.15);
+
+  /* Motion */
